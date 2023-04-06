@@ -39,5 +39,6 @@ These are the tools that came in use when I was creating this project:
 2)Python – 3.9.16 (version)
 3)Cv2 Library
 4)Face_Recognition library
+
                               Conclusion
 It was an experience of great learning and exploration in conceptualizing and building this project.  I have been doing machine learning and deep learning but I am still a beginner and this was my first project toward OpenCV and I enjoyed it a lot and gained new experience.
