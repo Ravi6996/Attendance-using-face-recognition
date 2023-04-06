@@ -9,10 +9,10 @@ In this project we are going to train a ‘Face-recognition’ model using OpenC
 6.) Saving the student data in the Excel file
 
 
-Objective :
+                        Objective :
 The basic objective of this project is to ‘Generate-Train-Recognize.’ The user is going to click on the link and I site will pop up. Camera will open and then our model will try to recognize the user face, once it recognizes it, it will try to compare it and then if the user is in the class list then It will display the name of that face under the face and then it will mark the attendance of that user in the attendance.csv sheet and the time and date also at which the attendance is marked is saved.
 
-Working:
+                         Working:
 
 In this project I have used ‘Face Recognition’ module . I installed the module using pip install face_recognition command by activating my environment.
  
